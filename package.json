@@ -1,0 +1,19 @@
+{
+  "name": "kac",
+  "version": "0.0.0",
+  "description": "Small Node.js project to emulate keys across operating systems.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dark-swordsman/kac.git"
+  },
+  "author": "Kyle Barr",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/dark-swordsman/kac/issues"
+  },
+  "homepage": "https://github.com/dark-swordsman/kac#readme"
+}
